@@ -4,16 +4,17 @@
 
 * Class name should follow the camel case rule. 
 
-Example: 
 ```typescript
+Example: 
+
 DemoClass
 ```
 
 * Variable name and function name must be in the camel case format. Any other parameters should also be in proper format.
 
+```typescript
 Example: 
 
-```typescript
 demoVar, demoFunction(){}
 ```
 
@@ -23,10 +24,9 @@ demoVar, demoFunction(){}
 
 * Each component selector has to be prefixed with the word ‘Helix’.
 
-
+```typescript
 Example: 
 
-```typescript
 Helix-ComponentName
 ```
 
@@ -38,9 +38,9 @@ Helix-ComponentName
 
 * Service name must also proceeded with ‘Helix’.
 
+```typescript
 Example: 
 
-```typescript
 Helix-name-service
 ```
 
@@ -53,12 +53,12 @@ Helix-name-service
 
 * Commit message on bit bucket should also be in given format.
 
+```
 Example: 
 
-```
 Module name: Short description about task
 ```
 
 * CSS classes should also follow camel case.
 
-
+* If the perticular CSS class is not used in html, don't keep its defination in CSS file.
