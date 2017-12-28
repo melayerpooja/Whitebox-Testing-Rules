@@ -57,7 +57,7 @@ Example:
 Module name: Short description about task
 ```
 
-* CSS classes should also follow camel case.
+* CSS custom classes should be seperated by hyphen.
 
 * If the perticular CSS class is not used in html, don't keep its defination in CSS file.
 
