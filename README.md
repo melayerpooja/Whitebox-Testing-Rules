@@ -61,3 +61,4 @@ Module name: Short description about task
 
 * If the perticular CSS class is not used in html, don't keep its defination in CSS file.
 
+* According to HTML 5 specification, ID must be unique in its home subtree. So avoid duplication of ID in HTML page.
